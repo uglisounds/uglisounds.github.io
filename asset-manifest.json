@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c5a3ee5c.chunk.css",
+    "main.js": "/static/js/main.21acb0a5.chunk.js",
+    "main.js.map": "/static/js/main.21acb0a5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.47788c5d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.47788c5d.js.map",
+    "static/js/2.b2d8994c.chunk.js": "/static/js/2.b2d8994c.chunk.js",
+    "static/js/2.b2d8994c.chunk.js.map": "/static/js/2.b2d8994c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.7ab30ebabbb9046e92a62dd1c9e922f6.js": "/precache-manifest.7ab30ebabbb9046e92a62dd1c9e922f6.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.c5a3ee5c.chunk.css.map": "/static/css/main.c5a3ee5c.chunk.css.map",
+    "static/js/2.b2d8994c.chunk.js.LICENSE.txt": "/static/js/2.b2d8994c.chunk.js.LICENSE.txt",
+    "static/media/2018.jpg": "/static/media/2018.fa895b5c.jpg",
+    "static/media/bg0.jpg": "/static/media/bg0.915bfbc4.jpg",
+    "static/media/family_blood.jpg": "/static/media/family_blood.bc3c3d4f.jpg",
+    "static/media/for_demokrati.jpg": "/static/media/for_demokrati.61dfec3d.jpg",
+    "static/media/haters_gonna_hate.jpg": "/static/media/haters_gonna_hate.5ffd11e9.jpg",
+    "static/media/historien_om.jpg": "/static/media/historien_om.31abf03f.jpg",
+    "static/media/jag_vill_dansa.jpg": "/static/media/jag_vill_dansa.ab4bf6cc.jpg",
+    "static/media/ugli.png": "/static/media/ugli.e3d6bf99.png",
+    "static/media/vill_inte_se.jpg": "/static/media/vill_inte_se.1a8dcc46.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47788c5d.js",
+    "static/js/2.b2d8994c.chunk.js",
+    "static/css/main.c5a3ee5c.chunk.css",
+    "static/js/main.21acb0a5.chunk.js"
+  ]
+}
